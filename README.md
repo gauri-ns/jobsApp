@@ -1,6 +1,6 @@
 ## Spring Job Portal
 
-Job portal for job seekers and companies, developed in Spring and Hibernate.
+Job portal for job seekers and companies, developed in Spring Boot and JSP using MVC architecture.
 
 ### Installing and Running the application
 
