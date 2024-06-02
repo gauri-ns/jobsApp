@@ -1,0 +1,20 @@
+body {
+    background-color: white; /* Background set to white */
+    color: red; /* Text color for better contrast on the white background */
+
+}
+.navbar-nav .nav-link {
+    font-size: 18px; /* Adjusting the font size as needed */
+}
+.container {
+    border-radius: 5px; /* Adding some border-radius for a softer look */
+    padding: 20px;
+    margin-top: 50px; /* Adjusting the margin as needed */
+}
+
+.cdClass{
+    background-color: red;
+    border-radius: 10px;
+}
+
+
